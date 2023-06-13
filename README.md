@@ -20,12 +20,6 @@ Track prices, monitor watchlists, and stay up-to-date with the latest news - all
 
 - Stay ahead of the game with our comprehensive news and insights section. Access the latest news articles, company announcements, earnings reports, and expert analyst opinions all in one place. Our curated news feeds provide you with valuable market insights, empowering you to make informed decisions based on the factors influencing stock prices.
 
-<!-- <img src="./imgs/base2.png" width="100" /> -->
-
-<!-- <p float="left">
-  <img src="./imgs/base2.png"  />
-  <img src="./imgs/base5.png" />
-</p> -->
 <img src="./imgs/demo.gif" width="900">
 
 ## Downloading the app
