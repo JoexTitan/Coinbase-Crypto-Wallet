@@ -1,16 +1,16 @@
-<img src="./imgs/logo01.JPG">
+<img src="./imgs/logo01.JPG" width="900">
 
 # Coinbase Crypto Wallet Clone
 
 Own Your Crypto Journey - Empowering You to Navigate the Future of Finance
 
-<img src="./imgs/demo.gif">
+<img src="./imgs/tools02.jpg">
 
 Whether you're a seasoned investor or just starting your journey, our app provides the tools you need to stay informed, make smart investment choices, and watch your stocks soar to new heights.
 
 Track prices, monitor watchlists, and stay up-to-date with the latest news - all in the palm of your hand. Start maximizing your investment potential today!
 
-<img src="./imgs/base2.png">
+ <img src="./imgs/base5.jpg" />
 
 ## Key Features
 
@@ -20,7 +20,13 @@ Track prices, monitor watchlists, and stay up-to-date with the latest news - all
 
 - Stay ahead of the game with our comprehensive news and insights section. Access the latest news articles, company announcements, earnings reports, and expert analyst opinions all in one place. Our curated news feeds provide you with valuable market insights, empowering you to make informed decisions based on the factors influencing stock prices.
 
-<img src="./imgs/base.png">
+<!-- <img src="./imgs/base2.png" width="100" /> -->
+
+<!-- <p float="left">
+  <img src="./imgs/base2.png"  />
+  <img src="./imgs/base5.png" />
+</p> -->
+<img src="./imgs/demo.gif" width="900">
 
 ## Downloading the app
 
@@ -30,6 +36,4 @@ To install the application to your own system:
 
 - `git clone https://github.com/JoexTitan/Crypto-Price-Tracker.git`
 
-- `npm install`
-
-- `npm run build`
+- `npm install` -> `npm run build` -> `npm start`
