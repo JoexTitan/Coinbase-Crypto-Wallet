@@ -10,15 +10,23 @@ Whether you're a seasoned investor or just starting your journey, our app provid
 
 Track prices, monitor watchlists, and stay up-to-date with the latest news - all in the palm of your hand. Start maximizing your investment potential today!
 
+<img src="./imgs/tools02.png">
+
+With our app, you can easily track the prices of your favorite stocks and cryptocurrencies. Simply enter the stock symbols or company names, and our tracker will provide you with the latest price information.
+
+Dive deeper into market trends with historical data and intuitive charts, helping you analyze the performance and identify potential opportunities.
+
+<img src="./imgs/tools03.png">
+
+Create personalized watchlists tailored to your investment preferences. Add your favorite stocks or the ones you're closely monitoring, and let our tracker keep you updated in real-time.
+
+Receive instant alerts and notifications for any changes in prices or significant developments, ensuring you never miss a beat.
+
  <img src="./imgs/base5.jpg" />
 
-## Key Features
+Stay ahead of the game with our comprehensive news and insights section. Access the latest news articles, company announcements, earnings reports, and expert analyst opinions all in one place.
 
-- With our app, you can easily track the prices of your favorite stocks and cryptocurrencies. Simply enter the stock symbols or company names, and our tracker will provide you with the latest price information. Dive deeper into market trends with historical data and intuitive charts, helping you analyze the performance and identify potential opportunities.
-
-- Create personalized watchlists tailored to your investment preferences. Add your favorite stocks or the ones you're closely monitoring, and let our tracker keep you updated in real-time. Receive instant alerts and notifications for any changes in prices or significant developments, ensuring you never miss a beat.
-
-- Stay ahead of the game with our comprehensive news and insights section. Access the latest news articles, company announcements, earnings reports, and expert analyst opinions all in one place. Our curated news feeds provide you with valuable market insights, empowering you to make informed decisions based on the factors influencing stock prices.
+Our curated news feeds provide you with valuable market insights, empowering you to make informed decisions based on the factors influencing stock prices.
 
 <img src="./imgs/demo.gif" width="900">
 
@@ -31,3 +39,5 @@ To install the application to your own system:
 - `git clone https://github.com/JoexTitan/Crypto-Price-Tracker.git`
 
 - `npm install` -> `npm run build` -> `npm start`
+
+<img src="./imgs/tools04.png">
