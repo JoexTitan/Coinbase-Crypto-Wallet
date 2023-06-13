@@ -1,6 +1,12 @@
-<img src="./imgs/logo01.JPG" width="900">
-
 # Coinbase Crypto Wallet Clone
+
+[![Author](https://img.shields.io/badge/Author-JoexTitan-brightgreen.svg)](https://github.com/JoexTitan)
+![License: CC-NC](https://img.shields.io/badge/License-CCNC-blue.svg)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-brightgreen.svg)](https://github.com/JoexTitan)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?)](https://github.com/prettier/prettier)
+[![Repo Link](https://img.shields.io/badge/Repo-Link-blue.svg)](https://github.com/JoexTitan/Crypto-Price-Tracker)
+
+<img src="./imgs/logo01.JPG" width="900">
 
 Own Your Crypto Journey - Empowering You to Navigate the Future of Finance
 
